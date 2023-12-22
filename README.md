@@ -4,6 +4,12 @@
 github-pages: [https://github.com/UpendraThota/3DMazeGame]
 
 Complete End to End Report [https://github.com/UpendraThota/3DMazeGame/blob/main/3D_Maze_Game_Report.pdf]
+
+ github- repo link :- [https://github.com/UpendraThota/3DMazeGame]
+
+ github- pages link :- [https://upendrathota.github.io/3DMazeGame/]
+
+ 
 # 3D Maze Game
 
 
