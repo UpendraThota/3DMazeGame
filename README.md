@@ -1,4 +1,9 @@
+# cs460student
+[CS460.org](https://cs460.org/) at UMass Boston
+github-pages: [https://github.com/UpendraThota/3DMazeGame]
 # 3D Maze Game
+
+
 
 ![3D Maze Game Screenshot](screenshot.png)
 
