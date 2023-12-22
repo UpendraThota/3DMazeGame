@@ -75,4 +75,8 @@ Contributions to the project are welcome! If you have ideas for improvements, ne
 
 - Special thanks to the Three.js community for creating and maintaining the Three.js library.
 - Thanks to the creators of the texture images used in the game.
+
+- © 2023 Upendra Thota
+ID: 02098600
+
  
